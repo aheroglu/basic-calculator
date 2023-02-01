@@ -29,6 +29,8 @@ namespace calculator
             //input.ReadOnly = true;
             firstNumberStatus = true;
             secondNumberStatus = false;
+            //Yeni kod
+            int sayi = 3;
         }
 
         private void Form1_Load(object sender, EventArgs e)
